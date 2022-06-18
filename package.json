@@ -1,5 +1,5 @@
 {
-  "name": "SELFBOT",
+  "name": "Cyber Botzz",
   "version": "1.0.0",
   "description": "TOD",
   "main": "main.js",
@@ -65,7 +65,7 @@
   "keywords": [
     "Wasu"
   ],
-  "author": "WKWK",
+  "author": "Ezzar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Hexagonz"
